@@ -1,0 +1,15 @@
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.deps.json
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.runtimeconfig.json
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.dll
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.dll
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/refint/Example001_HelloConsole.dll
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/elena/Desktop/GeekBrains/4. Знакомство с языками программирования/Examples/Example001_HelloConsole/obj/Debug/net6.0/ref/Example001_HelloConsole.dll
