@@ -1,4 +1,4 @@
-﻿void FillArray(int[] collection)
+﻿void FillArray(int[] collection) // 1. ПЕРВЫЙ МЕТОД
 {
     int length = collection.Length;
     int index = 0;
